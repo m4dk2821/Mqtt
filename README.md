@@ -8,9 +8,22 @@ MQTT broker untuk Android Termux menggunakan:
 ## Install
 
 chmod +x main.sh
+
 ./main.sh
 
-isi MQTT User Manager sebelum menggunakan
+# Running
+sebelum jalan pilih no
+
+1 untuk install semua yang diperlukan 
+2 isi user, password, topic
+
+jalankan mosqito 
+jalankan Cloudflare
+
+
+jika ada bug, kekurangan fitur hubungi
+
+m4dk2128@gmail.com
 
 jangan lupa ngopi
 barangkali di traktir ngopi tf dana aja :D
